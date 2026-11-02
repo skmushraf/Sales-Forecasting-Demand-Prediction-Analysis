@@ -74,7 +74,7 @@ The dashboard displays important business metrics:
 
 <!-- Add your dashboard screenshot here -->
 
-![Sales Forecasting Dashboard](images/dashboard-preview.png)
+![Sales Forecasting Dashboard](https://github.com/skmushraf/Sales-Forecasting-Demand-Prediction-Analysis/blob/main/preview.png)
 
 ## 📂 Project Structure
 
